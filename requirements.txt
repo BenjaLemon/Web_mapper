@@ -1,0 +1,4 @@
+gravis==0.1.0
+networkx==3.1
+pandas==1.5.2
+selenium==3.141.0
